@@ -42,3 +42,4 @@ Use `py -m pip install -r requirements.txt` to install dependencies
 Use `py main.py` to start the bot
 
 ## License
+This program comes as it is and it's released on terms based of [GNU General Public License v3.0](https://choosealicense.com/licenses/gpl-3.0/) 
