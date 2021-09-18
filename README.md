@@ -1,17 +1,18 @@
 # Discord Music Player
 
+<p align="center">
 <img src="https://img.shields.io/badge/legality-maybe-orange">
 <img src="https://img.shields.io/badge/version-0.0.1--DEVELOPEMENT-brightgreen">
 <img src="https://img.shields.io/badge/works%3F-for%20now-brightgreen">
----
+</p>
 
 This comes as a way for people using Discord to socialize to listen to music, podcasts or anything else is on youtube togheter. After the takedowns made to popular Discord bots _(Remember Rythm, Groovy and those who served this pourpose)_, people were left with ghetto ways of playing audio content with others.
 
-# Here this bot comes on
+### Here this bot comes on
 
 Using this bot on **small servers, and being hosted on your computer** should not upset Youtube so bad that takes the repo down. However we can't guarantee this.  
 
-# Make hard copies of the repository, save locally, share among your friends
+### Make hard copies of the repository, save locally, share among your friends
 
 ---
 
