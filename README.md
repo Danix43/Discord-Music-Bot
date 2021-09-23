@@ -34,12 +34,7 @@ Using this bot on **small servers, and being hosted on your computer** should no
 
 ## Installation 
 
-Install at least `Python 3` and add it to the path
-__Support for older versions of Python might be added__ 
-
-Use `py -m pip install -r requirements.txt` to install dependencies
-
-Use `py main.py` to start the bot
+## TODO: Update install instructions for node js
 
 ## License
 This program comes as it is and it's released on terms based of [GNU General Public License v3.0](https://choosealicense.com/licenses/gpl-3.0/) 
