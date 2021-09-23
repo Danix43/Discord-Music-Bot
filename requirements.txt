@@ -1,4 +1,0 @@
-youtube_dl
-ffmpeg-python
-discord.py[voice]
-pynacl
